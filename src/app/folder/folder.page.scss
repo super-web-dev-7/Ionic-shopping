@@ -1,32 +1,54 @@
 ion-menu-button {
-  color: var(--ion-color-primary);
+    color: var(--ion-color-primary);
 }
 
 #container {
-  text-align: center;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 #container strong {
-  font-size: 20px;
-  line-height: 26px;
+    font-size: 20px;
+    line-height: 26px;
 }
 
 #container p {
-  font-size: 16px;
-  line-height: 22px;
-  color: #8c8c8c;
-  margin: 0;
+    font-size: 16px;
+    line-height: 22px;
+    color: #8c8c8c;
+    margin: 0;
 }
 
 #container a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 ion-content ion-toolbar {
-  --background: transparent;
+    --background: transparent;
+}
+
+.logo {
+    height: 50px;
+}
+
+.shopping-cart {
+
+}
+
+.shopping-cart{
+    background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/gno/sprites/global-sprite-text-locale-2x-mobile._CB455065987_.png);
+    background-size: 275px;
+    background-position: -10px -240px;
+    width: 37px;
+    height: 27px;
+    background-repeat: no-repeat;
+}
+
+.product-image{
+    width: 110px;
+    height: 130px;
 }

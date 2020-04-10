@@ -1,0 +1,25 @@
+{
+    "movies": [
+        {
+            "firstName": "test",
+            "lastName": "name",
+            "email": "test@gmail.com",
+            "profile": "admin",
+            "status": "active"
+        },
+        {
+            "firstName": "test",
+            "lastName": "name",
+            "email": "test@gmail.com",
+            "profile": "admin",
+            "status": "active"
+        },
+        {
+            "firstName": "test",
+            "lastName": "name",
+            "email": "test@gmail.com",
+            "profile": "admin",
+            "status": "active"
+        }
+    ]
+}
